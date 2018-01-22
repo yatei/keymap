@@ -53,4 +53,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #undef MOUSEKEY_DELAY
 #define MOUSEKEY_DELAY 0
 
+#undef MOUSEKEY_WHEEL_MAX_SPEED
+#define MOUSEKEY_WHEEL_MAX_SPEED 1
+
 #endif
